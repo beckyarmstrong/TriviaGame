@@ -79,6 +79,7 @@ h3 {
 	color: #4d6d9a;
 	position: relative;
 	padding: 10px;
+	left: 5%;
 }
 .footer {
    position: fixed;
@@ -88,4 +89,57 @@ h3 {
    height: 5%;
    background-color:#4d6d9a;
    text-align: center;
+}
+button {
+    background-color: #4d6d9a;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative;
+    left:20%;
+    top: 350px;
+}
+
+.question {
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	position: relative;
+	padding: 10px;
+	left: 2%;
+	top: 100px;
+}
+.answerList {
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	color: #729DBF;
+	font-weight: bold;
+	position: relative;
+	padding: 10px;
+	left: 8%;
+}
+#message {
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	color: #729DBF;
+	font-weight: bold;
+	position: relative;
+	padding: 10px;
+	left: 8%;
+}
+#correctedAnswer {
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	color: #729DBF;
+	font-weight: bold;
+	position: relative;
+	padding: 10px;
+	left: 8%;
+
 }
